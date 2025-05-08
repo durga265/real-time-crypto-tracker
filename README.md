@@ -23,4 +23,3 @@ A responsive web app that tracks real-time prices of popular cryptocurrencies us
 - Search functionality
 - 7-day mini chart trends
 - Clean, CoinMarketCap-inspired UI
-- State flow visualized via Redux DevTools
