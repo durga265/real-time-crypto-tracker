@@ -2,6 +2,9 @@
 
 A responsive web app that tracks real-time prices of popular cryptocurrencies using React and Redux Toolkit.
 
+## Demo
+![crypto-gif](https://github.com/user-attachments/assets/b0c037c2-a35d-4280-8c90-9f43ad7c6b52)
+
 ## Tech Stack
 - **Frontend**: React.js, Redux Toolkit,CSS
 - **Architecture**:
